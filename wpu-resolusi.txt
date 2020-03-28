@@ -1,2 +1,4 @@
 wpu resolusi
-membuat program
+- membuat program
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
