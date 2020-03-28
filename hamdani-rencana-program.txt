@@ -1,0 +1,4 @@
+rencana program hamdani
+- belajar jaringan
+- belajar devops
+- belajar golang
